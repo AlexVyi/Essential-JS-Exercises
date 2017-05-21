@@ -1,0 +1,7 @@
+Return hello world
+
+Write a function named hello that takes no arguments and returns the string "Hello World!" ( writen exactly like that). 
+
+Note: This test is mainly there show you how the tests work
+
+Difficulty: 0
