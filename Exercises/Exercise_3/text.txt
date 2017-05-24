@@ -1,0 +1,8 @@
+3. isPositive
+
+Write a function called isPositive that takes a number as argument and returns true if the number is even and false otherwise
+
+Note: 0 is NOT a positive number ( it is also not negative)
+
+Difficulty : 1
+
