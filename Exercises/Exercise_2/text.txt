@@ -1,0 +1,7 @@
+2. ParityCheck
+
+Write a function called isEven that takes a number as argument and returns true if the number is even and false otherwise
+
+Note: it is usual to write the word "is" at the begining of function names that return a boolean value( true or false)
+
+Difficulty: 1
