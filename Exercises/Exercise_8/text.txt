@@ -1,0 +1,7 @@
+Write a function called "isIdentical" that checks whether or not an array is identical. An array is identical if all of it's elements are EQUAL/ IDENTICAL. You can asume correct input
+
+Note: equal/ identical means same value and same type. For example 3 and "3" are not identical
+
+Note: Arrays that contain only one element  and the empty array are identical
+
+Note: equality, unlike equivalence always outputs the same value, regardless of the order of the elements in the array 

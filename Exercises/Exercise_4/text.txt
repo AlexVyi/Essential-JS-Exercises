@@ -1,0 +1,7 @@
+4. isPositiveAdvanced
+
+Write a function called isPositiveAdvanced that takes a number as argument and returns true if the number is even, false if it is negative and undefined otherwise
+
+Note: read the previous exercise to see what number (numbers) is neither positive nor negative
+
+Difficulty : 1

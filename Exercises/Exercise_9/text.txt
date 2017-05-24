@@ -1,0 +1,9 @@
+9 Array to object
+
+Write a function called "arrayToObject" that takes an array as argument if the array is identical (see previous exercise) the function should return an object containing the fields "element" and "length". Element should have an element of the array as value (since all elements are equal it does not matter which one you pick). Length should have the length of the array as value. If the array is not identical return null. Asume corect input
+
+Note: you can use the function of the previous exercise to check whether or not an array is identical.
+
+Note: The empty array returns an object whos "element" field is set to undefined
+
+Note: The value null is discusused at the end of the book

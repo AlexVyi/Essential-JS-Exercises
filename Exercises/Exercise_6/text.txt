@@ -1,0 +1,11 @@
+6. arraySumAdvanced
+
+Write a function called arraySumAdvanced that takes an array as argument and returns the sum of the numbers in the array. Do not asume correct input. If the input is incorrect return undefined
+
+Note: correct input means, in this case, that the argument given to the function is an array that contains numbers and only numbers
+
+Note: you can check whether a variable x is an array using x instanceof Array and you can check whether a value is not a number by using isNaN (value)
+
+Bonus : in the previous exercise we stated that an input is correc if "there is nothing other than numbers in the array" and now we state that an input is correct if the array "contains numbers and only numbers". Think about what the difference between the two statements is. In particular think whether or not the empty array (meaning []) is a valid input in the first and the second exercise. Noting such subtelties and implementing such "edge cases" one of the most important skills that differentiate a good from a great programmer. Mistakes in this field are one of the biggest sources of frustratin latter on, as they tend to go undetected for long time and then sudently come back to bite you
+
+Difficulty: 4 (4.5 with the bonus)

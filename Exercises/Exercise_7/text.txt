@@ -1,0 +1,15 @@
+7. isInternallyEquivalent
+
+Write a function called isInternallyEquivalent that checks whether or not an array is internally equivalent. An array is internally equivalent if all of it's elements are EQUIVALENT. You can asume correct input
+
+Note: equal/ identical means same value but not necesarly same type. For example 3 and "3" are equivalent
+
+Note: Arrays that contain only one element  and the empty array are internally equivalent.
+
+Note: equivalence in js is quite a complicated endaviour and sould be avoided if possible. In our test we always asume that you check is all elements are equivalent to the first element. This exercise (and the next) are meant to make you internalize the difference between == and ===. To avoid problems related to equivalence you should use equality whenever possible (see next exercise). A full explanation on the problems that equivalence creates is found at the end of the book. Just to give you a taste of what such problems look like: according to our solution the array [0, "0", ""] is internally equivalent but ["", 0, "0"] is not. This is not ideal and leads to lots of confusion. Borderline note is "if possible use equality/identity and not equivalence " (see next exercise and the explanation at the end of the book)
+
+Bonus: after you have finished this exercise watch the solution. On line
+6 the loop starts at 1. Why is that? Would starting at 0 also work? What is the disadvantage when starting at 0?
+
+Difficulty: 3
+

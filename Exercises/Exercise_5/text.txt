@@ -1,0 +1,10 @@
+5. arraySum
+
+Write a function called arratSum that takes an array as argument and returns the sum of the numbers in the array. 
+
+Note: you can asume that the input is correct ( there is nothing other than numbers in the array)
+
+Note: the sum of an empty array is 0 and the sum of an array with one element is the element itself
+
+Difficulty: 2
+
